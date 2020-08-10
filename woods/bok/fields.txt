@@ -1,2 +1,3 @@
 Bok
 Fagus sylvatica
+{{c1::Bok}} är Sveriges {{c2::näst vanligaste}} ädelløvträd.
