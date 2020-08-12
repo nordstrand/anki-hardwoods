@@ -17,15 +17,14 @@ model = genanki.Model(
     {
       'name': 'Art-kort',
       'qfmt': 'Art <br>{{FloraIllustration}}',
-      'afmt': '{{FrontSide}}<hr id="answer">{{Art}}',
+      'afmt': '{{FrontSide}}<hr id="answer">{{Art}} ({{Latin}})',
     },
     {
       'name': 'Latin-kort',
       'qfmt': 'Latin <br>{{FloraIllustration}}',
-      'afmt': '{{FrontSide}}<hr id="answer">{{Latin}}',
+      'afmt': '{{FrontSide}}<hr id="answer">{{Latin}} ({{Art}})',
     },
   ])
-
 
 clozeModel = genanki.Model(
   998863322,
