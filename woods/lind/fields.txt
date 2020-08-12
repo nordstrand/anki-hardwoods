@@ -1,3 +1,3 @@
 Lind
 Tilia cordata
-{{c1::Lind}} blommar {{c2:sent - i slutet av juli}}.
+{{c1::Lind}} blommar {{c2::sent - i slutet av juli}}.
