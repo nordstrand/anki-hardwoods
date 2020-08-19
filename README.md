@@ -7,4 +7,4 @@ Notes are in Swedish language and for each species cover:
  * Some key information (Cloze)
  
 ## Screenshot
-[![Screen shott](screenshot.png)]
+![Screen shot](screenshot.png)
