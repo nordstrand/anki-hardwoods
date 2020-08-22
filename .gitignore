@@ -2,3 +2,4 @@
 env
 *.apkg
 .DS_Store
+release_notes.md

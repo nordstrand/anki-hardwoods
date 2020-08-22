@@ -74,3 +74,10 @@ print(package.media_files)
 package.write_to_file(ANKI_PACKAGE_PATH)
 
 print(f"Anki output file {ANKI_PACKAGE_PATH} written.")
+
+
+with open("release_notes.md", "w") as text_file:
+  newLine="\n"
+  print(f"""### Hard woods in this release:
+{ newLine.join([f" * {wood.title()}" for wood in sorted(get_immediate_subdirectories(DATA_PATH))]) }
+  """, file=text_file)
